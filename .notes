@@ -1,0 +1,8 @@
+#para iniciar el server local
+rails s -b 0.0.0.0
+
+#para mandar la app a heroku
+git push heroku master
+
+#para ejecutar las migraciones en heroku
+heroku run rails db:migrate
