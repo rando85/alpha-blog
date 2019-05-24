@@ -6,3 +6,9 @@ git push heroku master
 
 #para ejecutar las migraciones en heroku
 heroku run rails db:migrate
+
+#ejecutar la consola de rails en heroku
+heroku run rails console
+
+#para ejecutar los tests
+rails test
