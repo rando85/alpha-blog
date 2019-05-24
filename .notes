@@ -12,3 +12,7 @@ heroku run rails console
 
 #para ejecutar los tests
 rails test
+
+
+user: d@m.c
+password: 123
