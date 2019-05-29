@@ -16,3 +16,7 @@ rails test
 
 user: d@m.c
 password: 123
+
+
+agregar integration test para el inicio de sesion
+agregar integration test para crear un articulo
