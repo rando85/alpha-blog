@@ -71,5 +71,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :production do
+  #gema para instalar pg en prod
   gem 'pg'
 end
